@@ -26,4 +26,8 @@ the number and location of electrical outlets;
 the number and location of LAN outlets.
 We initially believe that a suitable solution is to use floor boxes, from which power to individual workstations will be distributed via distribution blocks (splitters) mounted under the desks. Of course, we would also be happy to receive your
 
+Order of Documents and Legend
 
+* (Excel) 1. Load Calculations
+* (DraftSight CAD) 2. Corrected Power Distribution from Existing Design
+* (SolidWorks) 3. Tray Modeling
